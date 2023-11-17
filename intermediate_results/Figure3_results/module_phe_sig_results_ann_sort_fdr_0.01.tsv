@@ -1,0 +1,262 @@
+Phenotypes	KEGG_modules	Estimate	P	Q	Estimate2	path_ann	path_ann_uniq	module_ann
+Pore	M00550	-0.325051442	0.000317328	3	-1	Ascorbate and aldarate metabolism;Metabolic pathways;Microbial metabolism in diverse environments	Ascorbate and aldarate metabolism	Ascorbate degradation, ascorbate => D-xylulose-5P
+Poryphyrins	M00550	0.183765648	0.000103164	3	1	Ascorbate and aldarate metabolism;Metabolic pathways;Microbial metabolism in diverse environments	Ascorbate and aldarate metabolism	Ascorbate degradation, ascorbate => D-xylulose-5P
+Grease	M00550	NA	NA	NA	NA	Ascorbate and aldarate metabolism;Metabolic pathways;Microbial metabolism in diverse environments	Ascorbate and aldarate metabolism	Ascorbate degradation, ascorbate => D-xylulose-5P
+Whitening	M00550	NA	NA	NA	NA	Ascorbate and aldarate metabolism;Metabolic pathways;Microbial metabolism in diverse environments	Ascorbate and aldarate metabolism	Ascorbate degradation, ascorbate => D-xylulose-5P
+Wrinkle	M00550	NA	NA	NA	NA	Ascorbate and aldarate metabolism;Metabolic pathways;Microbial metabolism in diverse environments	Ascorbate and aldarate metabolism	Ascorbate degradation, ascorbate => D-xylulose-5P
+Spot	M00550	NA	NA	NA	NA	Ascorbate and aldarate metabolism;Metabolic pathways;Microbial metabolism in diverse environments	Ascorbate and aldarate metabolism	Ascorbate degradation, ascorbate => D-xylulose-5P
+Melanin	M00550	NA	NA	NA	NA	Ascorbate and aldarate metabolism;Metabolic pathways;Microbial metabolism in diverse environments	Ascorbate and aldarate metabolism	Ascorbate degradation, ascorbate => D-xylulose-5P
+Ultraviolet	M00550	NA	NA	NA	NA	Ascorbate and aldarate metabolism;Metabolic pathways;Microbial metabolism in diverse environments	Ascorbate and aldarate metabolism	Ascorbate degradation, ascorbate => D-xylulose-5P
+Texture	M00550	NA	NA	NA	NA	Ascorbate and aldarate metabolism;Metabolic pathways;Microbial metabolism in diverse environments	Ascorbate and aldarate metabolism	Ascorbate degradation, ascorbate => D-xylulose-5P
+Pore	M00001	-0.16038251	0.00032916	3	-1	Glycolysis / Gluconeogenesis;Metabolic pathways;Carbon metabolism	Glycolysis / Gluconeogenesis	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+Grease	M00001	NA	NA	NA	NA	Glycolysis / Gluconeogenesis;Metabolic pathways;Carbon metabolism	Glycolysis / Gluconeogenesis	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+Poryphyrins	M00001	NA	NA	NA	NA	Glycolysis / Gluconeogenesis;Metabolic pathways;Carbon metabolism	Glycolysis / Gluconeogenesis	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+Whitening	M00001	NA	NA	NA	NA	Glycolysis / Gluconeogenesis;Metabolic pathways;Carbon metabolism	Glycolysis / Gluconeogenesis	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+Wrinkle	M00001	NA	NA	NA	NA	Glycolysis / Gluconeogenesis;Metabolic pathways;Carbon metabolism	Glycolysis / Gluconeogenesis	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+Spot	M00001	NA	NA	NA	NA	Glycolysis / Gluconeogenesis;Metabolic pathways;Carbon metabolism	Glycolysis / Gluconeogenesis	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+Melanin	M00001	NA	NA	NA	NA	Glycolysis / Gluconeogenesis;Metabolic pathways;Carbon metabolism	Glycolysis / Gluconeogenesis	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+Ultraviolet	M00001	NA	NA	NA	NA	Glycolysis / Gluconeogenesis;Metabolic pathways;Carbon metabolism	Glycolysis / Gluconeogenesis	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+Texture	M00001	NA	NA	NA	NA	Glycolysis / Gluconeogenesis;Metabolic pathways;Carbon metabolism	Glycolysis / Gluconeogenesis	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+Ultraviolet	M00065	-0.099262084	1.37769e-06	4	-1	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	GPI-anchor biosynthesis, core oligosaccharide
+Grease	M00065	NA	NA	NA	NA	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	GPI-anchor biosynthesis, core oligosaccharide
+Pore	M00065	NA	NA	NA	NA	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	GPI-anchor biosynthesis, core oligosaccharide
+Poryphyrins	M00065	NA	NA	NA	NA	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	GPI-anchor biosynthesis, core oligosaccharide
+Whitening	M00065	NA	NA	NA	NA	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	GPI-anchor biosynthesis, core oligosaccharide
+Wrinkle	M00065	NA	NA	NA	NA	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	GPI-anchor biosynthesis, core oligosaccharide
+Spot	M00065	NA	NA	NA	NA	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	GPI-anchor biosynthesis, core oligosaccharide
+Melanin	M00065	NA	NA	NA	NA	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	GPI-anchor biosynthesis, core oligosaccharide
+Texture	M00065	NA	NA	NA	NA	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	GPI-anchor biosynthesis, core oligosaccharide
+Grease	M00060	-0.201399701	8.80941e-06	4	-1	Lipopolysaccharide biosynthesis;Metabolic pathways	Lipopolysaccharide biosynthesis	KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type
+Grease	M00866	-0.198458776	2.50184e-05	4	-1	Lipopolysaccharide biosynthesis;Metabolic pathways	Lipopolysaccharide biosynthesis	KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type
+Texture	M00060	-0.144956363	3.59901e-05	3	-1	Lipopolysaccharide biosynthesis;Metabolic pathways	Lipopolysaccharide biosynthesis	KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type
+Texture	M00866	-0.144090485	3.75488e-06	3	-1	Lipopolysaccharide biosynthesis;Metabolic pathways	Lipopolysaccharide biosynthesis	KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type
+Spot	M00866	0.094765133	7.29168e-05	3	1	Lipopolysaccharide biosynthesis;Metabolic pathways	Lipopolysaccharide biosynthesis	KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type
+Spot	M00060	0.097334267	3.25929e-05	3	1	Lipopolysaccharide biosynthesis;Metabolic pathways	Lipopolysaccharide biosynthesis	KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type
+Ultraviolet	M00060	0.144733266	4.25858e-05	3	1	Lipopolysaccharide biosynthesis;Metabolic pathways	Lipopolysaccharide biosynthesis	KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type
+Ultraviolet	M00866	0.145335923	1.48087e-05	3	1	Lipopolysaccharide biosynthesis;Metabolic pathways	Lipopolysaccharide biosynthesis	KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type
+Melanin	M00060	0.152847632	7.67963e-05	3	1	Lipopolysaccharide biosynthesis;Metabolic pathways	Lipopolysaccharide biosynthesis	KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type
+Melanin	M00866	0.154024785	3.95015e-06	4	1	Lipopolysaccharide biosynthesis;Metabolic pathways	Lipopolysaccharide biosynthesis	KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type
+Pore	M00060	NA	NA	NA	NA	Lipopolysaccharide biosynthesis;Metabolic pathways	Lipopolysaccharide biosynthesis	KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type
+Poryphyrins	M00060	NA	NA	NA	NA	Lipopolysaccharide biosynthesis;Metabolic pathways	Lipopolysaccharide biosynthesis	KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type
+Whitening	M00060	NA	NA	NA	NA	Lipopolysaccharide biosynthesis;Metabolic pathways	Lipopolysaccharide biosynthesis	KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type
+Wrinkle	M00060	NA	NA	NA	NA	Lipopolysaccharide biosynthesis;Metabolic pathways	Lipopolysaccharide biosynthesis	KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type
+Pore	M00866	NA	NA	NA	NA	Lipopolysaccharide biosynthesis;Metabolic pathways	Lipopolysaccharide biosynthesis	KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type
+Poryphyrins	M00866	NA	NA	NA	NA	Lipopolysaccharide biosynthesis;Metabolic pathways	Lipopolysaccharide biosynthesis	KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type
+Whitening	M00866	NA	NA	NA	NA	Lipopolysaccharide biosynthesis;Metabolic pathways	Lipopolysaccharide biosynthesis	KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type
+Wrinkle	M00866	NA	NA	NA	NA	Lipopolysaccharide biosynthesis;Metabolic pathways	Lipopolysaccharide biosynthesis	KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type
+Pore	M00016	-0.206674725	7.82862e-05	3	-1	Lysine biosynthesis;Metabolic pathways;Biosynthesis of amino acids	Lysine biosynthesis	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine
+Wrinkle	M00016	-0.060180892	0.000146825	3	-1	Lysine biosynthesis;Metabolic pathways;Biosynthesis of amino acids	Lysine biosynthesis	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine
+Grease	M00016	NA	NA	NA	NA	Lysine biosynthesis;Metabolic pathways;Biosynthesis of amino acids	Lysine biosynthesis	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine
+Poryphyrins	M00016	NA	NA	NA	NA	Lysine biosynthesis;Metabolic pathways;Biosynthesis of amino acids	Lysine biosynthesis	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine
+Whitening	M00016	NA	NA	NA	NA	Lysine biosynthesis;Metabolic pathways;Biosynthesis of amino acids	Lysine biosynthesis	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine
+Spot	M00016	NA	NA	NA	NA	Lysine biosynthesis;Metabolic pathways;Biosynthesis of amino acids	Lysine biosynthesis	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine
+Melanin	M00016	NA	NA	NA	NA	Lysine biosynthesis;Metabolic pathways;Biosynthesis of amino acids	Lysine biosynthesis	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine
+Ultraviolet	M00016	NA	NA	NA	NA	Lysine biosynthesis;Metabolic pathways;Biosynthesis of amino acids	Lysine biosynthesis	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine
+Texture	M00016	NA	NA	NA	NA	Lysine biosynthesis;Metabolic pathways;Biosynthesis of amino acids	Lysine biosynthesis	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine
+Ultraviolet	M00055	-0.104678062	4.68138e-06	4	-1	N-Glycan biosynthesis;Metabolic pathways	N-Glycan biosynthesis	N-glycan precursor biosynthesis
+Pore	M00055	0.102769866	0.000215122	3	1	N-Glycan biosynthesis;Metabolic pathways	N-Glycan biosynthesis	N-glycan precursor biosynthesis
+Wrinkle	M00074	0.114727731	0.00014152	3	1	N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways	N-Glycan biosynthesis	N-glycan biosynthesis, high-mannose type
+Texture	M00074	0.132270855	5.8552e-05	3	1	N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways	N-Glycan biosynthesis	N-glycan biosynthesis, high-mannose type
+Grease	M00055	NA	NA	NA	NA	N-Glycan biosynthesis;Metabolic pathways	N-Glycan biosynthesis	N-glycan precursor biosynthesis
+Poryphyrins	M00055	NA	NA	NA	NA	N-Glycan biosynthesis;Metabolic pathways	N-Glycan biosynthesis	N-glycan precursor biosynthesis
+Whitening	M00055	NA	NA	NA	NA	N-Glycan biosynthesis;Metabolic pathways	N-Glycan biosynthesis	N-glycan precursor biosynthesis
+Wrinkle	M00055	NA	NA	NA	NA	N-Glycan biosynthesis;Metabolic pathways	N-Glycan biosynthesis	N-glycan precursor biosynthesis
+Spot	M00055	NA	NA	NA	NA	N-Glycan biosynthesis;Metabolic pathways	N-Glycan biosynthesis	N-glycan precursor biosynthesis
+Melanin	M00055	NA	NA	NA	NA	N-Glycan biosynthesis;Metabolic pathways	N-Glycan biosynthesis	N-glycan precursor biosynthesis
+Texture	M00055	NA	NA	NA	NA	N-Glycan biosynthesis;Metabolic pathways	N-Glycan biosynthesis	N-glycan precursor biosynthesis
+Grease	M00074	NA	NA	NA	NA	N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways	N-Glycan biosynthesis	N-glycan biosynthesis, high-mannose type
+Pore	M00074	NA	NA	NA	NA	N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways	N-Glycan biosynthesis	N-glycan biosynthesis, high-mannose type
+Poryphyrins	M00074	NA	NA	NA	NA	N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways	N-Glycan biosynthesis	N-glycan biosynthesis, high-mannose type
+Whitening	M00074	NA	NA	NA	NA	N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways	N-Glycan biosynthesis	N-glycan biosynthesis, high-mannose type
+Spot	M00074	NA	NA	NA	NA	N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways	N-Glycan biosynthesis	N-glycan biosynthesis, high-mannose type
+Melanin	M00074	NA	NA	NA	NA	N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways	N-Glycan biosynthesis	N-glycan biosynthesis, high-mannose type
+Ultraviolet	M00074	NA	NA	NA	NA	N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways	N-Glycan biosynthesis	N-glycan biosynthesis, high-mannose type
+Whitening	M00160	-0.261536176	6.23879e-05	3	-1	Oxidative phosphorylation	Oxidative phosphorylation	V-type ATPase, eukaryotes
+Pore	M00144	-0.254366736	6.09947e-05	3	-1	Oxidative phosphorylation	Oxidative phosphorylation	NADH:quinone oxidoreductase, prokaryotes
+Wrinkle	M00144	-0.072459617	2.4571e-05	3	-1	Oxidative phosphorylation	Oxidative phosphorylation	NADH:quinone oxidoreductase, prokaryotes
+Wrinkle	M00145	0.093724974	5.1027e-05	3	1	Oxidative phosphorylation	Oxidative phosphorylation	NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria
+Poryphyrins	M00144	0.150675583	0.000201479	3	1	Oxidative phosphorylation	Oxidative phosphorylation	NADH:quinone oxidoreductase, prokaryotes
+Grease	M00144	0.276396238	8.71882e-05	3	1	Oxidative phosphorylation	Oxidative phosphorylation	NADH:quinone oxidoreductase, prokaryotes
+Grease	M00157	0.284110536	9.65544e-05	3	1	Oxidative phosphorylation;Photosynthesis	Oxidative phosphorylation	F-type ATPase, prokaryotes and chloroplasts
+Whitening	M00144	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	NADH:quinone oxidoreductase, prokaryotes
+Spot	M00144	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	NADH:quinone oxidoreductase, prokaryotes
+Melanin	M00144	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	NADH:quinone oxidoreductase, prokaryotes
+Ultraviolet	M00144	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	NADH:quinone oxidoreductase, prokaryotes
+Texture	M00144	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	NADH:quinone oxidoreductase, prokaryotes
+Pore	M00157	NA	NA	NA	NA	Oxidative phosphorylation;Photosynthesis	Oxidative phosphorylation	F-type ATPase, prokaryotes and chloroplasts
+Poryphyrins	M00157	NA	NA	NA	NA	Oxidative phosphorylation;Photosynthesis	Oxidative phosphorylation	F-type ATPase, prokaryotes and chloroplasts
+Whitening	M00157	NA	NA	NA	NA	Oxidative phosphorylation;Photosynthesis	Oxidative phosphorylation	F-type ATPase, prokaryotes and chloroplasts
+Wrinkle	M00157	NA	NA	NA	NA	Oxidative phosphorylation;Photosynthesis	Oxidative phosphorylation	F-type ATPase, prokaryotes and chloroplasts
+Spot	M00157	NA	NA	NA	NA	Oxidative phosphorylation;Photosynthesis	Oxidative phosphorylation	F-type ATPase, prokaryotes and chloroplasts
+Melanin	M00157	NA	NA	NA	NA	Oxidative phosphorylation;Photosynthesis	Oxidative phosphorylation	F-type ATPase, prokaryotes and chloroplasts
+Ultraviolet	M00157	NA	NA	NA	NA	Oxidative phosphorylation;Photosynthesis	Oxidative phosphorylation	F-type ATPase, prokaryotes and chloroplasts
+Texture	M00157	NA	NA	NA	NA	Oxidative phosphorylation;Photosynthesis	Oxidative phosphorylation	F-type ATPase, prokaryotes and chloroplasts
+Grease	M00160	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	V-type ATPase, eukaryotes
+Pore	M00160	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	V-type ATPase, eukaryotes
+Poryphyrins	M00160	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	V-type ATPase, eukaryotes
+Wrinkle	M00160	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	V-type ATPase, eukaryotes
+Spot	M00160	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	V-type ATPase, eukaryotes
+Melanin	M00160	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	V-type ATPase, eukaryotes
+Ultraviolet	M00160	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	V-type ATPase, eukaryotes
+Texture	M00160	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	V-type ATPase, eukaryotes
+Grease	M00145	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria
+Pore	M00145	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria
+Poryphyrins	M00145	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria
+Whitening	M00145	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria
+Spot	M00145	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria
+Melanin	M00145	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria
+Ultraviolet	M00145	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria
+Texture	M00145	NA	NA	NA	NA	Oxidative phosphorylation	Oxidative phosphorylation	NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria
+Pore	M00542	-0.239735104	7.42361e-06	4	-1	Pathogenic Escherichia coli infection	Pathogenic Escherichia coli infection	EHEC/EPEC pathogenicity signature, T3SS and effectors
+Grease	M00542	-0.2018988	6.92645e-06	4	-1	Pathogenic Escherichia coli infection	Pathogenic Escherichia coli infection	EHEC/EPEC pathogenicity signature, T3SS and effectors
+Poryphyrins	M00542	NA	NA	NA	NA	Pathogenic Escherichia coli infection	Pathogenic Escherichia coli infection	EHEC/EPEC pathogenicity signature, T3SS and effectors
+Whitening	M00542	NA	NA	NA	NA	Pathogenic Escherichia coli infection	Pathogenic Escherichia coli infection	EHEC/EPEC pathogenicity signature, T3SS and effectors
+Wrinkle	M00542	NA	NA	NA	NA	Pathogenic Escherichia coli infection	Pathogenic Escherichia coli infection	EHEC/EPEC pathogenicity signature, T3SS and effectors
+Spot	M00542	NA	NA	NA	NA	Pathogenic Escherichia coli infection	Pathogenic Escherichia coli infection	EHEC/EPEC pathogenicity signature, T3SS and effectors
+Melanin	M00542	NA	NA	NA	NA	Pathogenic Escherichia coli infection	Pathogenic Escherichia coli infection	EHEC/EPEC pathogenicity signature, T3SS and effectors
+Ultraviolet	M00542	NA	NA	NA	NA	Pathogenic Escherichia coli infection	Pathogenic Escherichia coli infection	EHEC/EPEC pathogenicity signature, T3SS and effectors
+Texture	M00542	NA	NA	NA	NA	Pathogenic Escherichia coli infection	Pathogenic Escherichia coli infection	EHEC/EPEC pathogenicity signature, T3SS and effectors
+Pore	M00004	-0.232605898	4.28389e-06	4	-1	Pentose phosphate pathway;Metabolic pathways;Microbial metabolism in diverse environments;Carbon metabolism	Pentose phosphate pathway	Pentose phosphate pathway (Pentose phosphate cycle)
+Poryphyrins	M00004	0.142571803	4.60329e-05	3	1	Pentose phosphate pathway;Metabolic pathways;Microbial metabolism in diverse environments;Carbon metabolism	Pentose phosphate pathway	Pentose phosphate pathway (Pentose phosphate cycle)
+Whitening	M00061	0.229399771	9.17221e-05	3	1	Pentose phosphate pathway;Pentose and glucuronate interconversions;Metabolic pathways	Pentose phosphate pathway	D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P
+Grease	M00004	NA	NA	NA	NA	Pentose phosphate pathway;Metabolic pathways;Microbial metabolism in diverse environments;Carbon metabolism	Pentose phosphate pathway	Pentose phosphate pathway (Pentose phosphate cycle)
+Whitening	M00004	NA	NA	NA	NA	Pentose phosphate pathway;Metabolic pathways;Microbial metabolism in diverse environments;Carbon metabolism	Pentose phosphate pathway	Pentose phosphate pathway (Pentose phosphate cycle)
+Wrinkle	M00004	NA	NA	NA	NA	Pentose phosphate pathway;Metabolic pathways;Microbial metabolism in diverse environments;Carbon metabolism	Pentose phosphate pathway	Pentose phosphate pathway (Pentose phosphate cycle)
+Spot	M00004	NA	NA	NA	NA	Pentose phosphate pathway;Metabolic pathways;Microbial metabolism in diverse environments;Carbon metabolism	Pentose phosphate pathway	Pentose phosphate pathway (Pentose phosphate cycle)
+Melanin	M00004	NA	NA	NA	NA	Pentose phosphate pathway;Metabolic pathways;Microbial metabolism in diverse environments;Carbon metabolism	Pentose phosphate pathway	Pentose phosphate pathway (Pentose phosphate cycle)
+Ultraviolet	M00004	NA	NA	NA	NA	Pentose phosphate pathway;Metabolic pathways;Microbial metabolism in diverse environments;Carbon metabolism	Pentose phosphate pathway	Pentose phosphate pathway (Pentose phosphate cycle)
+Texture	M00004	NA	NA	NA	NA	Pentose phosphate pathway;Metabolic pathways;Microbial metabolism in diverse environments;Carbon metabolism	Pentose phosphate pathway	Pentose phosphate pathway (Pentose phosphate cycle)
+Grease	M00061	NA	NA	NA	NA	Pentose phosphate pathway;Pentose and glucuronate interconversions;Metabolic pathways	Pentose phosphate pathway	D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P
+Pore	M00061	NA	NA	NA	NA	Pentose phosphate pathway;Pentose and glucuronate interconversions;Metabolic pathways	Pentose phosphate pathway	D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P
+Poryphyrins	M00061	NA	NA	NA	NA	Pentose phosphate pathway;Pentose and glucuronate interconversions;Metabolic pathways	Pentose phosphate pathway	D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P
+Wrinkle	M00061	NA	NA	NA	NA	Pentose phosphate pathway;Pentose and glucuronate interconversions;Metabolic pathways	Pentose phosphate pathway	D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P
+Spot	M00061	NA	NA	NA	NA	Pentose phosphate pathway;Pentose and glucuronate interconversions;Metabolic pathways	Pentose phosphate pathway	D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P
+Melanin	M00061	NA	NA	NA	NA	Pentose phosphate pathway;Pentose and glucuronate interconversions;Metabolic pathways	Pentose phosphate pathway	D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P
+Ultraviolet	M00061	NA	NA	NA	NA	Pentose phosphate pathway;Pentose and glucuronate interconversions;Metabolic pathways	Pentose phosphate pathway	D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P
+Texture	M00061	NA	NA	NA	NA	Pentose phosphate pathway;Pentose and glucuronate interconversions;Metabolic pathways	Pentose phosphate pathway	D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P
+Grease	M00878	-0.164266555	4.48377e-05	3	-1	Phenylalanine metabolism;Metabolic pathways;Microbial metabolism in diverse environments	Phenylalanine metabolism	Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA
+Poryphyrins	M00878	-0.120498037	9.83642e-07	4	-1	Phenylalanine metabolism;Metabolic pathways;Microbial metabolism in diverse environments	Phenylalanine metabolism	Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA
+Texture	M00878	-0.115958158	9.74673e-05	3	-1	Phenylalanine metabolism;Metabolic pathways;Microbial metabolism in diverse environments	Phenylalanine metabolism	Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA
+Melanin	M00878	0.183340871	4.38354e-06	4	1	Phenylalanine metabolism;Metabolic pathways;Microbial metabolism in diverse environments	Phenylalanine metabolism	Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA
+Pore	M00878	NA	NA	NA	NA	Phenylalanine metabolism;Metabolic pathways;Microbial metabolism in diverse environments	Phenylalanine metabolism	Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA
+Whitening	M00878	NA	NA	NA	NA	Phenylalanine metabolism;Metabolic pathways;Microbial metabolism in diverse environments	Phenylalanine metabolism	Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA
+Wrinkle	M00878	NA	NA	NA	NA	Phenylalanine metabolism;Metabolic pathways;Microbial metabolism in diverse environments	Phenylalanine metabolism	Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA
+Spot	M00878	NA	NA	NA	NA	Phenylalanine metabolism;Metabolic pathways;Microbial metabolism in diverse environments	Phenylalanine metabolism	Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA
+Ultraviolet	M00878	NA	NA	NA	NA	Phenylalanine metabolism;Metabolic pathways;Microbial metabolism in diverse environments	Phenylalanine metabolism	Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA
+Pore	M00122	-0.309368533	0.000331974	3	-1	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, cobyrinate a,c-diamide => cobalamin
+Pore	M00925	-0.247807782	0.000270196	3	-1	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, aerobic, uroporphyrinogen III => precorrin 2 => cobyrinate a,c-diamide
+Pore	M00926	-0.241588575	0.000189737	3	-1	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme
+Pore	M00924	-0.201337915	9.56987e-05	3	-1	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, anaerobic, uroporphyrinogen III => sirohydrochlorin => cobyrinate a,c-diamide
+Wrinkle	M00926	-0.087092754	3.39396e-05	3	-1	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme
+Wrinkle	M00121	-0.078737913	0.000108683	3	-1	Porphyrin metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Porphyrin metabolism	Heme biosynthesis, plants and bacteria, glutamate => heme
+Poryphyrins	M00121	0.126475182	0.000174844	3	1	Porphyrin metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Porphyrin metabolism	Heme biosynthesis, plants and bacteria, glutamate => heme
+Poryphyrins	M00926	0.164003797	3.69347e-05	3	1	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme
+Poryphyrins	M00122	0.208052395	3.88951e-05	3	1	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, cobyrinate a,c-diamide => cobalamin
+Grease	M00121	0.289352044	0.000372635	3	1	Porphyrin metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Porphyrin metabolism	Heme biosynthesis, plants and bacteria, glutamate => heme
+Grease	M00926	0.290171101	1.51986e-06	4	1	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme
+Whitening	M00926	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme
+Spot	M00926	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme
+Melanin	M00926	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme
+Ultraviolet	M00926	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme
+Texture	M00926	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme
+Pore	M00121	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Porphyrin metabolism	Heme biosynthesis, plants and bacteria, glutamate => heme
+Whitening	M00121	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Porphyrin metabolism	Heme biosynthesis, plants and bacteria, glutamate => heme
+Spot	M00121	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Porphyrin metabolism	Heme biosynthesis, plants and bacteria, glutamate => heme
+Melanin	M00121	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Porphyrin metabolism	Heme biosynthesis, plants and bacteria, glutamate => heme
+Ultraviolet	M00121	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Porphyrin metabolism	Heme biosynthesis, plants and bacteria, glutamate => heme
+Texture	M00121	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Porphyrin metabolism	Heme biosynthesis, plants and bacteria, glutamate => heme
+Grease	M00924	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, anaerobic, uroporphyrinogen III => sirohydrochlorin => cobyrinate a,c-diamide
+Poryphyrins	M00924	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, anaerobic, uroporphyrinogen III => sirohydrochlorin => cobyrinate a,c-diamide
+Whitening	M00924	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, anaerobic, uroporphyrinogen III => sirohydrochlorin => cobyrinate a,c-diamide
+Wrinkle	M00924	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, anaerobic, uroporphyrinogen III => sirohydrochlorin => cobyrinate a,c-diamide
+Spot	M00924	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, anaerobic, uroporphyrinogen III => sirohydrochlorin => cobyrinate a,c-diamide
+Melanin	M00924	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, anaerobic, uroporphyrinogen III => sirohydrochlorin => cobyrinate a,c-diamide
+Ultraviolet	M00924	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, anaerobic, uroporphyrinogen III => sirohydrochlorin => cobyrinate a,c-diamide
+Texture	M00924	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, anaerobic, uroporphyrinogen III => sirohydrochlorin => cobyrinate a,c-diamide
+Grease	M00925	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, aerobic, uroporphyrinogen III => precorrin 2 => cobyrinate a,c-diamide
+Poryphyrins	M00925	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, aerobic, uroporphyrinogen III => precorrin 2 => cobyrinate a,c-diamide
+Whitening	M00925	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, aerobic, uroporphyrinogen III => precorrin 2 => cobyrinate a,c-diamide
+Wrinkle	M00925	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, aerobic, uroporphyrinogen III => precorrin 2 => cobyrinate a,c-diamide
+Spot	M00925	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, aerobic, uroporphyrinogen III => precorrin 2 => cobyrinate a,c-diamide
+Melanin	M00925	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, aerobic, uroporphyrinogen III => precorrin 2 => cobyrinate a,c-diamide
+Ultraviolet	M00925	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, aerobic, uroporphyrinogen III => precorrin 2 => cobyrinate a,c-diamide
+Texture	M00925	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, aerobic, uroporphyrinogen III => precorrin 2 => cobyrinate a,c-diamide
+Grease	M00122	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, cobyrinate a,c-diamide => cobalamin
+Whitening	M00122	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, cobyrinate a,c-diamide => cobalamin
+Wrinkle	M00122	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, cobyrinate a,c-diamide => cobalamin
+Spot	M00122	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, cobyrinate a,c-diamide => cobalamin
+Melanin	M00122	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, cobyrinate a,c-diamide => cobalamin
+Ultraviolet	M00122	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, cobyrinate a,c-diamide => cobalamin
+Texture	M00122	NA	NA	NA	NA	Porphyrin metabolism;Metabolic pathways;Biosynthesis of cofactors	Porphyrin metabolism	Cobalamin biosynthesis, cobyrinate a,c-diamide => cobalamin
+Grease	M00546	-0.154806241	3.26645e-06	4	-1	Purine metabolism;Metabolic pathways	Purine metabolism	Purine degradation, xanthine => urea
+Pore	M00546	NA	NA	NA	NA	Purine metabolism;Metabolic pathways	Purine metabolism	Purine degradation, xanthine => urea
+Poryphyrins	M00546	NA	NA	NA	NA	Purine metabolism;Metabolic pathways	Purine metabolism	Purine degradation, xanthine => urea
+Whitening	M00546	NA	NA	NA	NA	Purine metabolism;Metabolic pathways	Purine metabolism	Purine degradation, xanthine => urea
+Wrinkle	M00546	NA	NA	NA	NA	Purine metabolism;Metabolic pathways	Purine metabolism	Purine degradation, xanthine => urea
+Spot	M00546	NA	NA	NA	NA	Purine metabolism;Metabolic pathways	Purine metabolism	Purine degradation, xanthine => urea
+Melanin	M00546	NA	NA	NA	NA	Purine metabolism;Metabolic pathways	Purine metabolism	Purine degradation, xanthine => urea
+Ultraviolet	M00546	NA	NA	NA	NA	Purine metabolism;Metabolic pathways	Purine metabolism	Purine degradation, xanthine => urea
+Texture	M00546	NA	NA	NA	NA	Purine metabolism;Metabolic pathways	Purine metabolism	Purine degradation, xanthine => urea
+Grease	M00939	-0.191293699	0.000129443	3	-1	Pyrimidine metabolism;Metabolic pathways	Pyrimidine metabolism	Pyrimidine degradation, uracil => 3-hydroxypropanoate
+Grease	M00938	0.285993305	1.07734e-05	4	1	Pyrimidine metabolism;Metabolic pathways;Nucleotide metabolism	Pyrimidine metabolism	Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP
+Pore	M00938	NA	NA	NA	NA	Pyrimidine metabolism;Metabolic pathways;Nucleotide metabolism	Pyrimidine metabolism	Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP
+Poryphyrins	M00938	NA	NA	NA	NA	Pyrimidine metabolism;Metabolic pathways;Nucleotide metabolism	Pyrimidine metabolism	Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP
+Whitening	M00938	NA	NA	NA	NA	Pyrimidine metabolism;Metabolic pathways;Nucleotide metabolism	Pyrimidine metabolism	Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP
+Wrinkle	M00938	NA	NA	NA	NA	Pyrimidine metabolism;Metabolic pathways;Nucleotide metabolism	Pyrimidine metabolism	Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP
+Spot	M00938	NA	NA	NA	NA	Pyrimidine metabolism;Metabolic pathways;Nucleotide metabolism	Pyrimidine metabolism	Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP
+Melanin	M00938	NA	NA	NA	NA	Pyrimidine metabolism;Metabolic pathways;Nucleotide metabolism	Pyrimidine metabolism	Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP
+Ultraviolet	M00938	NA	NA	NA	NA	Pyrimidine metabolism;Metabolic pathways;Nucleotide metabolism	Pyrimidine metabolism	Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP
+Texture	M00938	NA	NA	NA	NA	Pyrimidine metabolism;Metabolic pathways;Nucleotide metabolism	Pyrimidine metabolism	Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP
+Pore	M00939	NA	NA	NA	NA	Pyrimidine metabolism;Metabolic pathways	Pyrimidine metabolism	Pyrimidine degradation, uracil => 3-hydroxypropanoate
+Poryphyrins	M00939	NA	NA	NA	NA	Pyrimidine metabolism;Metabolic pathways	Pyrimidine metabolism	Pyrimidine degradation, uracil => 3-hydroxypropanoate
+Whitening	M00939	NA	NA	NA	NA	Pyrimidine metabolism;Metabolic pathways	Pyrimidine metabolism	Pyrimidine degradation, uracil => 3-hydroxypropanoate
+Wrinkle	M00939	NA	NA	NA	NA	Pyrimidine metabolism;Metabolic pathways	Pyrimidine metabolism	Pyrimidine degradation, uracil => 3-hydroxypropanoate
+Spot	M00939	NA	NA	NA	NA	Pyrimidine metabolism;Metabolic pathways	Pyrimidine metabolism	Pyrimidine degradation, uracil => 3-hydroxypropanoate
+Melanin	M00939	NA	NA	NA	NA	Pyrimidine metabolism;Metabolic pathways	Pyrimidine metabolism	Pyrimidine degradation, uracil => 3-hydroxypropanoate
+Ultraviolet	M00939	NA	NA	NA	NA	Pyrimidine metabolism;Metabolic pathways	Pyrimidine metabolism	Pyrimidine degradation, uracil => 3-hydroxypropanoate
+Texture	M00939	NA	NA	NA	NA	Pyrimidine metabolism;Metabolic pathways	Pyrimidine metabolism	Pyrimidine degradation, uracil => 3-hydroxypropanoate
+Grease	M00044	-0.170443965	0.000238747	3	-1	Tyrosine metabolism;Metabolic pathways	Tyrosine metabolism	Tyrosine degradation, tyrosine => homogentisate
+Pore	M00044	NA	NA	NA	NA	Tyrosine metabolism;Metabolic pathways	Tyrosine metabolism	Tyrosine degradation, tyrosine => homogentisate
+Poryphyrins	M00044	NA	NA	NA	NA	Tyrosine metabolism;Metabolic pathways	Tyrosine metabolism	Tyrosine degradation, tyrosine => homogentisate
+Whitening	M00044	NA	NA	NA	NA	Tyrosine metabolism;Metabolic pathways	Tyrosine metabolism	Tyrosine degradation, tyrosine => homogentisate
+Wrinkle	M00044	NA	NA	NA	NA	Tyrosine metabolism;Metabolic pathways	Tyrosine metabolism	Tyrosine degradation, tyrosine => homogentisate
+Spot	M00044	NA	NA	NA	NA	Tyrosine metabolism;Metabolic pathways	Tyrosine metabolism	Tyrosine degradation, tyrosine => homogentisate
+Melanin	M00044	NA	NA	NA	NA	Tyrosine metabolism;Metabolic pathways	Tyrosine metabolism	Tyrosine degradation, tyrosine => homogentisate
+Ultraviolet	M00044	NA	NA	NA	NA	Tyrosine metabolism;Metabolic pathways	Tyrosine metabolism	Tyrosine degradation, tyrosine => homogentisate
+Texture	M00044	NA	NA	NA	NA	Tyrosine metabolism;Metabolic pathways	Tyrosine metabolism	Tyrosine degradation, tyrosine => homogentisate
+Pore	M00116	-0.269718632	0.000290398	3	-1	Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Ubiquinone and other terpenoid-quinone biosynthesis	Menaquinone biosynthesis, chorismate (+ polyprenyl-PP) => menaquinol
+Wrinkle	M00116	-0.078033717	0.000128736	3	-1	Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Ubiquinone and other terpenoid-quinone biosynthesis	Menaquinone biosynthesis, chorismate (+ polyprenyl-PP) => menaquinol
+Poryphyrins	M00116	0.175059903	4.63482e-05	3	1	Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Ubiquinone and other terpenoid-quinone biosynthesis	Menaquinone biosynthesis, chorismate (+ polyprenyl-PP) => menaquinol
+Grease	M00116	0.298916241	1.58626e-06	4	1	Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Ubiquinone and other terpenoid-quinone biosynthesis	Menaquinone biosynthesis, chorismate (+ polyprenyl-PP) => menaquinol
+Grease	M00932	0.306701799	2.20435e-05	4	1	Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Ubiquinone and other terpenoid-quinone biosynthesis	Phylloquinone biosynthesis, chorismate (+ phytyl-PP) => phylloquinol
+Whitening	M00116	NA	NA	NA	NA	Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Ubiquinone and other terpenoid-quinone biosynthesis	Menaquinone biosynthesis, chorismate (+ polyprenyl-PP) => menaquinol
+Spot	M00116	NA	NA	NA	NA	Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Ubiquinone and other terpenoid-quinone biosynthesis	Menaquinone biosynthesis, chorismate (+ polyprenyl-PP) => menaquinol
+Melanin	M00116	NA	NA	NA	NA	Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Ubiquinone and other terpenoid-quinone biosynthesis	Menaquinone biosynthesis, chorismate (+ polyprenyl-PP) => menaquinol
+Ultraviolet	M00116	NA	NA	NA	NA	Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Ubiquinone and other terpenoid-quinone biosynthesis	Menaquinone biosynthesis, chorismate (+ polyprenyl-PP) => menaquinol
+Texture	M00116	NA	NA	NA	NA	Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Ubiquinone and other terpenoid-quinone biosynthesis	Menaquinone biosynthesis, chorismate (+ polyprenyl-PP) => menaquinol
+Pore	M00932	NA	NA	NA	NA	Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Ubiquinone and other terpenoid-quinone biosynthesis	Phylloquinone biosynthesis, chorismate (+ phytyl-PP) => phylloquinol
+Poryphyrins	M00932	NA	NA	NA	NA	Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Ubiquinone and other terpenoid-quinone biosynthesis	Phylloquinone biosynthesis, chorismate (+ phytyl-PP) => phylloquinol
+Whitening	M00932	NA	NA	NA	NA	Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Ubiquinone and other terpenoid-quinone biosynthesis	Phylloquinone biosynthesis, chorismate (+ phytyl-PP) => phylloquinol
+Wrinkle	M00932	NA	NA	NA	NA	Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Ubiquinone and other terpenoid-quinone biosynthesis	Phylloquinone biosynthesis, chorismate (+ phytyl-PP) => phylloquinol
+Spot	M00932	NA	NA	NA	NA	Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Ubiquinone and other terpenoid-quinone biosynthesis	Phylloquinone biosynthesis, chorismate (+ phytyl-PP) => phylloquinol
+Melanin	M00932	NA	NA	NA	NA	Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Ubiquinone and other terpenoid-quinone biosynthesis	Phylloquinone biosynthesis, chorismate (+ phytyl-PP) => phylloquinol
+Ultraviolet	M00932	NA	NA	NA	NA	Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Ubiquinone and other terpenoid-quinone biosynthesis	Phylloquinone biosynthesis, chorismate (+ phytyl-PP) => phylloquinol
+Texture	M00932	NA	NA	NA	NA	Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors	Ubiquinone and other terpenoid-quinone biosynthesis	Phylloquinone biosynthesis, chorismate (+ phytyl-PP) => phylloquinol
+Grease	M00616	-0.217545169	0.00043954	3	-1	NA;	NA	Sulfate-sulfur assimilation
+Melanin	M00660	-0.088931055	2.02808e-06	4	-1	NA;	NA	Xanthomonas spp. pathogenicity signature, T3SS and effectors
+Poryphyrins	M00660	0.130064225	6.60052e-06	3	1	NA;	NA	Xanthomonas spp. pathogenicity signature, T3SS and effectors
+Pore	M00616	NA	NA	NA	NA	NA;	NA	Sulfate-sulfur assimilation
+Poryphyrins	M00616	NA	NA	NA	NA	NA;	NA	Sulfate-sulfur assimilation
+Whitening	M00616	NA	NA	NA	NA	NA;	NA	Sulfate-sulfur assimilation
+Wrinkle	M00616	NA	NA	NA	NA	NA;	NA	Sulfate-sulfur assimilation
+Spot	M00616	NA	NA	NA	NA	NA;	NA	Sulfate-sulfur assimilation
+Melanin	M00616	NA	NA	NA	NA	NA;	NA	Sulfate-sulfur assimilation
+Ultraviolet	M00616	NA	NA	NA	NA	NA;	NA	Sulfate-sulfur assimilation
+Texture	M00616	NA	NA	NA	NA	NA;	NA	Sulfate-sulfur assimilation
+Grease	M00660	NA	NA	NA	NA	NA;	NA	Xanthomonas spp. pathogenicity signature, T3SS and effectors
+Pore	M00660	NA	NA	NA	NA	NA;	NA	Xanthomonas spp. pathogenicity signature, T3SS and effectors
+Whitening	M00660	NA	NA	NA	NA	NA;	NA	Xanthomonas spp. pathogenicity signature, T3SS and effectors
+Wrinkle	M00660	NA	NA	NA	NA	NA;	NA	Xanthomonas spp. pathogenicity signature, T3SS and effectors
+Spot	M00660	NA	NA	NA	NA	NA;	NA	Xanthomonas spp. pathogenicity signature, T3SS and effectors
+Ultraviolet	M00660	NA	NA	NA	NA	NA;	NA	Xanthomonas spp. pathogenicity signature, T3SS and effectors
+Texture	M00660	NA	NA	NA	NA	NA;	NA	Xanthomonas spp. pathogenicity signature, T3SS and effectors
