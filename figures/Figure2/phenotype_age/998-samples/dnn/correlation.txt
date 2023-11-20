@@ -1,0 +1,8 @@
+Spearman's rank correlation rho
+
+data:  predict_result$age and predict_result$predict_age
+S = 80468136, p-value < 2.2e-16
+alternative hypothesis: true rho is not equal to 0
+sample estimates:
+      rho 
+0.5142822

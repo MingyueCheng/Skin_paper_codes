@@ -1,0 +1,8 @@
+Spearman's rank correlation rho
+
+data:  result$y and result$predicted
+S = 1576470, p-value = 3.776e-09
+alternative hypothesis: true rho is not equal to 0
+sample estimates:
+      rho 
+0.3646122
