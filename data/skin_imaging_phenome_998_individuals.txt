@@ -1,4 +1,4 @@
-Gender	Age	Lightening	Sebum	Poryphyrins	Texture	Melanin	Pore	Spot	Wrinkle	Hemoglobin	Ultravioletspot	Age_group
+Gender	Age	Lightening	Sebum	Porphyrins	Texture	Melanin	Pore	Pigment	Wrinkle	Hemoglobin	Ultravioletspot	Age_group
 SP0001	Female	21	209.87	0.118	0.022	26.313	15.449	1.873	3.043	0.751	12.109	3.291	group2
 SP0002	Female	18	207.522	0.778	0.059	44.687	15.785	1.443	1.876	1.473	11.617	3.287	group1
 SP0003	Male	19	202.972	0.562	0.051	34.691	15.99	2.118	3.41	0.913	14.47	4.678	group1

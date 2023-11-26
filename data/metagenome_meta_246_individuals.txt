@@ -1,4 +1,4 @@
-SampleID	Age	Lightening	Grease	Poryphyrins	Texture	Melanin	Pore	Spot	Wrinkle	Hemoglobin	UVspot
+SampleID	Age	Lightening	Sebum	Porphyrins	Texture	Melanin	Pore	Pigment	Wrinkle	Hemoglobin	UVspot
 S001	29	207.431	0.22	0.144	28.791	16.932	2.348	7.212	0.646	15.876	10.023
 S002	29	208.197	0.011	0.001	29.662	16.473	2.726	7.018	0.684	19.858	4.321
 S003	32	215.383	1.181	29.654	41.731	14.186	1.725	3.624	1.593	15.235	9.565

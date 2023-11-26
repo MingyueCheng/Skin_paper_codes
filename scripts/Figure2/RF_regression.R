@@ -3,7 +3,7 @@ library(ggsignif)
 library(dplyr)
 library(caret)
 
-outpath <- "figures/Figure2"
+outpath <- "figures/Figure2/"
 dir.create(outpath)
 
 #figure theme
@@ -84,13 +84,12 @@ cor.test(result$y, result$predicted, method="spearman")
 #246_samples_metadata
 #data-input
 metadata_dir <- "./data/metagenome_meta_246_individuals.txt"
-metadata <- read.table(metadata_dir, header=T, sep="\t", quote="", comment.char="")
-rownames(metadata) <- metadata$SampleID
+metadata <- read.table(metadata_dir, header=T, sep="\t", quote="", comment.char="",row.names = 1)
 
 #246_species_data（annotation by metaphlan）
 #data-input
-metaphlan_data_dir <- "./data/species.txt"
-mep <- read.table(metaphlan_data_dir, header=T, sep="\t", quote="", comment.char="")
+metaphlan_data <- "./data/species.txt"
+mep <- read.table(metaphlan_data, header=T, sep="\t", quote="", comment.char="", row.names = 1)
 mep <- as.data.frame(t(mep))
 colnames(mep) <- gsub("\\|",".",colnames(mep))
 #Filter out features with a variance of 0
@@ -164,7 +163,7 @@ cor.test(result$y, result$predicted, method="spearman")
 
 
 #Random forest: Age prediction-based on phenotype
-x <- metadata[,c(-1,-2)]
+x <- metadata[,c(-1)]
 y <- metadata$Age
 set.seed(1)
 result <- rf.regression.cross_validation(x, y, nfolds = 5)
@@ -223,7 +222,7 @@ cor.test(result$y, result$predicted, method="spearman")
 
 
 #Random forest: Age prediction-based on species+phenotype
-mep_phenotype <- cbind(mep, metadata[,c(-1,-2)])
+mep_phenotype <- cbind(mep, metadata[,c(-1)])
 x <- mep_phenotype
 y <- metadata$Age
 set.seed(1)
@@ -340,3 +339,4 @@ ggsave(paste0(outpath, "microbiota_phenotype/",phe,"/predict_MAE.pdf"),
        p, width=75*zoom, height=75*zoom, units="mm")
 #Spearman correlation
 cor.test(result$y, result$predicted, method="spearman")
+
