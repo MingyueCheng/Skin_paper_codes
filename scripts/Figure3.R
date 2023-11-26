@@ -7,7 +7,7 @@ meta <- read.table("./data/metagenome_meta_246_individuals.txt", header = TRUE, 
 library(vegan)
 library(ggplot2)
 
-permanova <- adonis2(t(species[,rownames(meta)]) ~ Age+Lightening+Grease+
+permanova <- adonis2(t(species[,rownames(meta)]) ~ Age+Lightening+Sebum+
                         Poryphyrins+Texture+Melanin+Pore+Spot+Wrinkle+Hemoglobin+
                         UVspot,
                       data = meta, permutations=9999, method = "bray", by="margin")
@@ -51,6 +51,8 @@ species_shannon_phynotype_correlation <- get_shannon_phynotypic_correlation(spec
 
 #order the phenomes according to the previous permanova results
 species_shannon_phynotype_correlation<-species_shannon_phynotype_correlation[,rownames(permanova_results[3:nrow(permanova_results),])]
+species_shannon_phynotype_correlation <- rbind(species_shannon_phynotype_correlation,p.adjust(species_shannon_phynotype_correlation[2,],method = "fdr"))
+rownames(species_shannon_phynotype_correlation)[3] <- c("fdr")
 
 #plot
 library(pheatmap)
